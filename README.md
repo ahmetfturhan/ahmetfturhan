@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetfturhan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetfturhan" /> </p>
 
-- 🔭 I’m currently working on my **Senior Project**
+- 🔭 I’m currently working in **Huawei**
 
-- 🌱 I’m currently learning **Containers, Cloud Services,**
+- 🌱 I’m currently learning **Go, Containers, Cloud Services**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ahmetfturhan/**
 
